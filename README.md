@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Aditya Shinde 👋
 
-<!--
-**adishinde0921/adishinde0921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Developer | React.js Developer
 
-Here are some ideas to get you started:
+I'm a Computer Engineering graduate passionate about building responsive web applications and solving real-world problems through technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently improving my skills in React.js and Full Stack Development.
+- 💻 Interested in JavaScript, React.js, React Native and SQL.
+- 🚀 Working on real-world projects and collaborative development.
+- 🤝 Open to learning, collaboration and software development opportunities.
+
+### 🛠️ Technical Skills
+
+- **Frontend:** HTML, CSS, JavaScript, React.js
+- **Mobile:** React Native, Expo
+- **Database:** SQL
+- **Tools:** Git, GitHub, VS Code
+
+### 📌 Featured Projects
+
+- **Dynamic Cards App** – Dynamic card-based web application.
+- **Quiz App** – Educational quiz application developed using React Native and Expo.
+
+### 📫 Connect With Me
+
+- LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/aditya-shinde-7aa974290)
+- GitHub: [My GitHub Profile](YOUR_GITHUB_URL)
