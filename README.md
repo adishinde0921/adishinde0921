@@ -23,5 +23,5 @@ I'm a Computer Engineering graduate passionate about building responsive web app
 
 ### 📫 Connect With Me
 
-- LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/aditya-shinde-7aa974290)
+- LinkedIn: www.linkedin.com/in/aditya-shinde-7aa974290
 - GitHub: [My GitHub Profile](YOUR_GITHUB_URL)
